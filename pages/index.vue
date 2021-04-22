@@ -17,7 +17,7 @@
           <div class="flex-1 flex justify-end h-16 pt-4 pr-6">
             <img
               class="object-cover rounded-full h-12 w-12 float-right"
-              src="/images/profile-f-1.png"
+              src="~/static/images/profile-f-1.png"
             />
           </div>
         </div>
@@ -35,7 +35,7 @@
       <div class="w-full bg-purple-100">
         <p class="text-xs p-2 text-black">
           <b>Sample information area:</b> Welcome to Track Your bible reading.
-          Here ia quick look at your stats.
+          Here ia quick look at your stats.
         </p>
       </div>
     </section>

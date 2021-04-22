@@ -8,7 +8,6 @@ export default {
     bodyAttrs: {
       // class: ["my-style"]
     },
-    title: "Nuxt.js starter for CSB",
     meta: [
       { charset: "utf-8" },
       {
