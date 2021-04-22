@@ -1,0 +1,596 @@
+[
+  {
+    "id": "0x4",
+    "book_name": "Genesis",
+    "book_number": 1,
+    "book_abbreviation": "Ge",
+    "chaptersAggregate": {
+      "count": 50
+    }
+  },
+  {
+    "id": "0x5",
+    "book_name": "Exodus",
+    "book_number": 2,
+    "book_abbreviation": "Ex",
+    "chaptersAggregate": {
+      "count": 40
+    }
+  },
+  {
+    "id": "0x7e",
+    "book_name": "Leviticus",
+    "book_number": 3,
+    "book_abbreviation": "Le",
+    "chaptersAggregate": {
+      "count": 27
+    }
+  },
+  {
+    "id": "0x8f",
+    "book_name": "Numbers",
+    "book_number": 4,
+    "book_abbreviation": "Nu",
+    "chaptersAggregate": {
+      "count": 36
+    }
+  },
+  {
+    "id": "0x61",
+    "book_name": "Deuteronomy",
+    "book_number": 5,
+    "book_abbreviation": "De",
+    "chaptersAggregate": {
+      "count": 34
+    }
+  },
+  {
+    "id": "0x6a",
+    "book_name": "Joshua",
+    "book_number": 6,
+    "book_abbreviation": "Jos",
+    "chaptersAggregate": {
+      "count": 24
+    }
+  },
+  {
+    "id": "0x62",
+    "book_name": "Judges",
+    "book_number": 7,
+    "book_abbreviation": "Jg",
+    "chaptersAggregate": {
+      "count": 21
+    }
+  },
+  {
+    "id": "0x63",
+    "book_name": "Ruth",
+    "book_number": 8,
+    "book_abbreviation": "Ru",
+    "chaptersAggregate": {
+      "count": 4
+    }
+  },
+  {
+    "id": "0x84",
+    "book_name": "1 Samuel",
+    "book_number": 9,
+    "book_abbreviation": "1Sa",
+    "chaptersAggregate": {
+      "count": 31
+    }
+  },
+  {
+    "id": "0x7f",
+    "book_name": "2 Samuel",
+    "book_number": 10,
+    "book_abbreviation": "2Sa",
+    "chaptersAggregate": {
+      "count": 24
+    }
+  },
+  {
+    "id": "0x9f",
+    "book_name": "1 Kings",
+    "book_number": 11,
+    "book_abbreviation": "1Ki",
+    "chaptersAggregate": {
+      "count": 22
+    }
+  },
+  {
+    "id": "0x80",
+    "book_name": "2 Kings",
+    "book_number": 12,
+    "book_abbreviation": "2Ki",
+    "chaptersAggregate": {
+      "count": 25
+    }
+  },
+  {
+    "id": "0x90",
+    "book_name": "1 Chronicles",
+    "book_number": 13,
+    "book_abbreviation": "1Ch",
+    "chaptersAggregate": {
+      "count": 29
+    }
+  },
+  {
+    "id": "0x9a",
+    "book_name": "2 Chronicles",
+    "book_number": 14,
+    "book_abbreviation": "2Ch",
+    "chaptersAggregate": {
+      "count": 36
+    }
+  },
+  {
+    "id": "0x6b",
+    "book_name": "Ezra",
+    "book_number": 15,
+    "book_abbreviation": "Ezr",
+    "chaptersAggregate": {
+      "count": 10
+    }
+  },
+  {
+    "id": "0x85",
+    "book_name": "Nehemiah",
+    "book_number": 16,
+    "book_abbreviation": "Ne",
+    "chaptersAggregate": {
+      "count": 13
+    }
+  },
+  {
+    "id": "0x9d",
+    "book_name": "Esther",
+    "book_number": 17,
+    "book_abbreviation": "Es",
+    "chaptersAggregate": {
+      "count": 10
+    }
+  },
+  {
+    "id": "0x73",
+    "book_name": "Job",
+    "book_number": 18,
+    "book_abbreviation": "Job",
+    "chaptersAggregate": {
+      "count": 42
+    }
+  },
+  {
+    "id": "0x6c",
+    "book_name": "Psalms",
+    "book_number": 19,
+    "book_abbreviation": "Ps",
+    "chaptersAggregate": {
+      "count": 119
+    }
+  },
+  {
+    "id": "0x91",
+    "book_name": "Proverbs",
+    "book_number": 20,
+    "book_abbreviation": "Pr",
+    "chaptersAggregate": {
+      "count": 31
+    }
+  },
+  {
+    "id": "0x76",
+    "book_name": "Ecclesiastes",
+    "book_number": 21,
+    "book_abbreviation": "Ec",
+    "chaptersAggregate": {
+      "count": 12
+    }
+  },
+  {
+    "id": "0x8b",
+    "book_name": "Song of Solomon",
+    "book_number": 22,
+    "book_abbreviation": "Ca",
+    "chaptersAggregate": {
+      "count": 8
+    }
+  },
+  {
+    "id": "0x8c",
+    "book_name": "Isaiah",
+    "book_number": 23,
+    "book_abbreviation": "Isa",
+    "chaptersAggregate": {
+      "count": 66
+    }
+  },
+  {
+    "id": "0x95",
+    "book_name": "Jeremiah",
+    "book_number": 24,
+    "book_abbreviation": "Jer",
+    "chaptersAggregate": {
+      "count": 52
+    }
+  },
+  {
+    "id": "0x77",
+    "book_name": "Lamentations",
+    "book_number": 25,
+    "book_abbreviation": "La",
+    "chaptersAggregate": {
+      "count": 5
+    }
+  },
+  {
+    "id": "0x96",
+    "book_name": "Ezekiel",
+    "book_number": 26,
+    "book_abbreviation": "Eze",
+    "chaptersAggregate": {
+      "count": 48
+    }
+  },
+  {
+    "id": "0x66",
+    "book_name": "Daniel",
+    "book_number": 27,
+    "book_abbreviation": "Da",
+    "chaptersAggregate": {
+      "count": 12
+    }
+  },
+  {
+    "id": "0x78",
+    "book_name": "Hosea",
+    "book_number": 28,
+    "book_abbreviation": "Ho",
+    "chaptersAggregate": {
+      "count": 14
+    }
+  },
+  {
+    "id": "0x67",
+    "book_name": "Joel",
+    "book_number": 29,
+    "book_abbreviation": "Joe",
+    "chaptersAggregate": {
+      "count": 3
+    }
+  },
+  {
+    "id": "0x92",
+    "book_name": "Amos",
+    "book_number": 30,
+    "book_abbreviation": "Am",
+    "chaptersAggregate": {
+      "count": 9
+    }
+  },
+  {
+    "id": "0x6f",
+    "book_name": "Obadiah",
+    "book_number": 31,
+    "book_abbreviation": "Ob",
+    "chaptersAggregate": {
+      "count": 1
+    }
+  },
+  {
+    "id": "0x8d",
+    "book_name": "Jonah",
+    "book_number": 32,
+    "book_abbreviation": "Jon",
+    "chaptersAggregate": {
+      "count": 4
+    }
+  },
+  {
+    "id": "0x86",
+    "book_name": "Micah",
+    "book_number": 33,
+    "book_abbreviation": "Mic",
+    "chaptersAggregate": {
+      "count": 7
+    }
+  },
+  {
+    "id": "0x79",
+    "book_name": "Nahum",
+    "book_number": 34,
+    "book_abbreviation": "Na",
+    "chaptersAggregate": {
+      "count": 3
+    }
+  },
+  {
+    "id": "0x64",
+    "book_name": "Habakkuk",
+    "book_number": 35,
+    "book_abbreviation": "Hab",
+    "chaptersAggregate": {
+      "count": 3
+    }
+  },
+  {
+    "id": "0x7a",
+    "book_name": "Zephaniah",
+    "book_number": 36,
+    "book_abbreviation": "Zep",
+    "chaptersAggregate": {
+      "count": 3
+    }
+  },
+  {
+    "id": "0x7b",
+    "book_name": "Haggai",
+    "book_number": 37,
+    "book_abbreviation": "Hag",
+    "chaptersAggregate": {
+      "count": 2
+    }
+  },
+  {
+    "id": "0x97",
+    "book_name": "Zechariah",
+    "book_number": 38,
+    "book_abbreviation": "Zec",
+    "chaptersAggregate": {
+      "count": 14
+    }
+  },
+  {
+    "id": "0x68",
+    "book_name": "Malachi",
+    "book_number": 39,
+    "book_abbreviation": "Mal",
+    "chaptersAggregate": {
+      "count": 4
+    }
+  },
+  {
+    "id": "0x70",
+    "book_name": "Matthew",
+    "book_number": 40,
+    "book_abbreviation": "Mt",
+    "chaptersAggregate": {
+      "count": 28
+    }
+  },
+  {
+    "id": "0x87",
+    "book_name": "Mark",
+    "book_number": 41,
+    "book_abbreviation": "Mr",
+    "chaptersAggregate": {
+      "count": 16
+    }
+  },
+  {
+    "id": "0x9b",
+    "book_name": "Luke",
+    "book_number": 42,
+    "book_abbreviation": "Lu",
+    "chaptersAggregate": {
+      "count": 24
+    }
+  },
+  {
+    "id": "0x71",
+    "book_name": "John",
+    "book_number": 43,
+    "book_abbreviation": "Joh",
+    "chaptersAggregate": {
+      "count": 21
+    }
+  },
+  {
+    "id": "0x81",
+    "book_name": "Acts",
+    "book_number": 44,
+    "book_abbreviation": "Ac",
+    "chaptersAggregate": {
+      "count": 28
+    }
+  },
+  {
+    "id": "0x89",
+    "book_name": "Romans",
+    "book_number": 45,
+    "book_abbreviation": "Ro",
+    "chaptersAggregate": {
+      "count": 16
+    }
+  },
+  {
+    "id": "0x8a",
+    "book_name": "1 Corinthians",
+    "book_number": 46,
+    "book_abbreviation": "1Co",
+    "chaptersAggregate": {
+      "count": 16
+    }
+  },
+  {
+    "id": "0x6d",
+    "book_name": "2 Corinthians",
+    "book_number": 47,
+    "book_abbreviation": "2Co",
+    "chaptersAggregate": {
+      "count": 13
+    }
+  },
+  {
+    "id": "0x8e",
+    "book_name": "Galatians",
+    "book_number": 48,
+    "book_abbreviation": "Ga",
+    "chaptersAggregate": {
+      "count": 6
+    }
+  },
+  {
+    "id": "0x93",
+    "book_name": "Ephesians",
+    "book_number": 49,
+    "book_abbreviation": "Eph",
+    "chaptersAggregate": {
+      "count": 6
+    }
+  },
+  {
+    "id": "0x82",
+    "book_name": "Philippians",
+    "book_number": 50,
+    "book_abbreviation": "Php",
+    "chaptersAggregate": {
+      "count": 4
+    }
+  },
+  {
+    "id": "0x98",
+    "book_name": "Colossians",
+    "book_number": 51,
+    "book_abbreviation": "Col",
+    "chaptersAggregate": {
+      "count": 4
+    }
+  },
+  {
+    "id": "0x69",
+    "book_name": "1 Thessalonians",
+    "book_number": 52,
+    "book_abbreviation": "1Th",
+    "chaptersAggregate": {
+      "count": 5
+    }
+  },
+  {
+    "id": "0x9c",
+    "book_name": "2 Thessalonians",
+    "book_number": 53,
+    "book_abbreviation": "2Th",
+    "chaptersAggregate": {
+      "count": 3
+    }
+  },
+  {
+    "id": "0x72",
+    "book_name": "1 Timothy",
+    "book_number": 54,
+    "book_abbreviation": "1Ti",
+    "chaptersAggregate": {
+      "count": 6
+    }
+  },
+  {
+    "id": "0x74",
+    "book_name": "2 Timothy",
+    "book_number": 55,
+    "book_abbreviation": "2Ti",
+    "chaptersAggregate": {
+      "count": 4
+    }
+  },
+  {
+    "id": "0x65",
+    "book_name": "Titus",
+    "book_number": 56,
+    "book_abbreviation": "Tit",
+    "chaptersAggregate": {
+      "count": 3
+    }
+  },
+  {
+    "id": "0x94",
+    "book_name": "Philemon",
+    "book_number": 57,
+    "book_abbreviation": "Phm",
+    "chaptersAggregate": {
+      "count": 1
+    }
+  },
+  {
+    "id": "0xa0",
+    "book_name": "Hebrews",
+    "book_number": 58,
+    "book_abbreviation": "Heb",
+    "chaptersAggregate": {
+      "count": 13
+    }
+  },
+  {
+    "id": "0x88",
+    "book_name": "James",
+    "book_number": 59,
+    "book_abbreviation": "Jas",
+    "chaptersAggregate": {
+      "count": 5
+    }
+  },
+  {
+    "id": "0x9e",
+    "book_name": "1 Peter",
+    "book_number": 60,
+    "book_abbreviation": "1Pe",
+    "chaptersAggregate": {
+      "count": 5
+    }
+  },
+  {
+    "id": "0x6e",
+    "book_name": "2 Peter",
+    "book_number": 61,
+    "book_abbreviation": "2Pe",
+    "chaptersAggregate": {
+      "count": 3
+    }
+  },
+  {
+    "id": "0x83",
+    "book_name": "1 John",
+    "book_number": 62,
+    "book_abbreviation": "1Jo",
+    "chaptersAggregate": {
+      "count": 5
+    }
+  },
+  {
+    "id": "0x7c",
+    "book_name": "2 John",
+    "book_number": 63,
+    "book_abbreviation": "2Jo",
+    "chaptersAggregate": {
+      "count": 1
+    }
+  },
+  {
+    "id": "0x75",
+    "book_name": "3 John",
+    "book_number": 64,
+    "book_abbreviation": "3Jo",
+    "chaptersAggregate": {
+      "count": 1
+    }
+  },
+  {
+    "id": "0x99",
+    "book_name": "Jude",
+    "book_number": 65,
+    "book_abbreviation": "Jude",
+    "chaptersAggregate": {
+      "count": 1
+    }
+  },
+  {
+    "id": "0x7d",
+    "book_name": "Revelation",
+    "book_number": 66,
+    "book_abbreviation": "Re",
+    "chaptersAggregate": {
+      "count": 22
+    }
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "name": "codesandbox-nuxt",
+  "version": "1.0.0",
+  "description": "Nuxt starter for CodeSandBox",
+  "author": "Nuxt.js Team",
+  "private": true,
+  "scripts": {
+    "dev": "MINIMAL=1 nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "post-update": "yarn upgrade --latest"
+  },
+  "dependencies": {
+    "nuxt": "2.15.4",
+    "postcss-import": "^14.0.1"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^4.0.3",
+    "postcss": "^8.2.10"
+  }
+}
