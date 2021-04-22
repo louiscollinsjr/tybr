@@ -74,6 +74,13 @@
             >As you read the Bible, mark off each chapter</span
           >
         </p>
+        <section>
+          <div v-for="n in 2" :key="n" class="shadow rounded-xl bg-white appleDarkGrayX text-black font-bold p-3 text-base bg-cover bg-no-repeat bg-bottom grid grid-cols-3 gap-4 bg-gray-50 rounded-2xl mt-2 h-16">
+            <RecentReads/>
+          </div>
+
+        </section>
+
         <div
           class="mt-6 text-xs grid grid-cols-2 grid-rows-5 grid-flow-col gap-3 p-0"
         >
