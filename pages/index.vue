@@ -98,12 +98,13 @@
       </div>
     </section>
 
-    <section class="">
+    <section class="bg-gray-200 h-80 shadow-inner">
+      <p class="mx-2 font-medium text-base">Connections</p>
       <div
-        class="flex overflow-auto clear-left no-scrollbar h-96 transform shadow-inner"
+        class="flex overflow-auto clear-left no-scrollbar h-96 transform "
         style="height: 460px">
-        <div v-for="n in 15" :key="n" class="text-gray-400 font-light p-0 mb-0">
-          <div class="p-0.5 flex mr-2" style="float: left">
+        <div v-for="n in 10" :key="n" class="text-gray-400 font-light p-0 mb-0">
+          <div class="mx-2" style="float: left">
             <ConnectFriends />
           </div>
         </div>
