@@ -1,11 +1,9 @@
 {
-  "name": "codesandbox-nuxt",
+  "name": "blissful-sherpa",
   "version": "1.0.0",
-  "description": "Nuxt starter for CodeSandBox",
-  "author": "Nuxt.js Team",
   "private": true,
   "scripts": {
-    "dev": "MINIMAL=1 nuxt",
+    "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",

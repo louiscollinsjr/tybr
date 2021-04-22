@@ -101,12 +101,10 @@
     <section class="">
       <div
         class="flex overflow-auto clear-left no-scrollbar h-96 transform shadow-inner"
-        style="height: 460px"
-      >
-        <div class="mx-3"><SimpleChallengeCard /></div>
-        <div v-for="n in 5" :key="n" class="text-gray-400 font-light p-0 mb-0">
-          <div class="p-0.5 flex mr-4" style="float: left">
-            <SimpleTaskCard />
+        style="height: 460px">
+        <div v-for="n in 15" :key="n" class="text-gray-400 font-light p-0 mb-0">
+          <div class="p-0.5 flex mr-2" style="float: left">
+            <ConnectFriends />
           </div>
         </div>
       </div>
