@@ -99,7 +99,7 @@
     </section>
 
     <section class="bg-gray-200 h-80 pt-4">
-      <p class="mx-4 font-medium text-xl">Connections</p>
+      <p class="mx-4 font-medium text-xl text-black">Connect with friends</p>
       <div
         class="flex overflow-auto clear-left no-scrollbar h-96"
         style="height: 460px">
